@@ -92,6 +92,6 @@ compare_df = pytrends.interest_over_time()
 
 for kw in kw_list:
     plt.plot(compare_df.index, compare_df[kw], label=kw)
-
-
 Allows tracking relative popularity of multiple keywords.
+
+USE LIBARY FOR GOOD RESULT'
