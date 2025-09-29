@@ -1,7 +1,5 @@
 # HR Employee Attrition Analysis & Interactive Dashboard
 
-### 🔗 Live Dashboard: [Link to Your Interactive Power BI Report]([Paste Your Power BI Public Link Here])
-
 ---
 
 ## 📝 Project Overview
@@ -45,15 +43,11 @@ This project provides a comprehensive analysis of employee attrition using the I
 * `HR_Attrition.sql`: SQL script for initial data querying.
 * `HR_Attrition_ANALYSIS .IPYNB`: Jupyter Notebook containing the detailed Python analysis.
 * `IBM HR Analytics Employee Attrition & Performance.pbix`: The final Power BI dashboard file.
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot]([Paste the file name of your dashboard screenshot here])
+* `IBM HR Analytics Employee Attrition & Performance_unsing_pandas.csv`: clean using data   
 
 ---
 
 ## 📞 Contact
 
-* **LinkedIn:** [Your Name]([Link to Your LinkedIn Profile])
+* **LinkedIn:** [Aspak Ismail]([https://www.linkedin.com/in/aspakismail/])
+* **Email:** [aspakismail13@gmail.com]
