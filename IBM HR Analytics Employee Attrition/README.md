@@ -50,4 +50,4 @@ This project provides a comprehensive analysis of employee attrition using the I
 ## 📞 Contact
 
 * **LinkedIn:** [Aspak Ismail] ([https://www.linkedin.com/in/aspakismail/])
-* **Email:** [aspakismail13@gmail.com]
+* **Email:**  [aspakismail13@gmail.com]
