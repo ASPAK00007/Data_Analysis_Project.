@@ -1,0 +1,34 @@
+# 📌 Vendor Performance Analysis  
+### End-to-End Data Extraction & Analysis Using PostgreSQL, SQLAlchemy, Pandas, Matplotlib & Seaborn
+
+This project extracts vendor, purchase, invoice, and freight data from a **PostgreSQL database**, cleans it using Pandas, and performs a complete vendor performance analysis with visualizations.
+
+---
+
+## 🚀 Project Overview
+The goal of this project is to analyze vendor performance using business datasets.  
+It covers:
+
+- Extracting data directly from **PostgreSQL**  
+- Cleaning, transforming, merging, and validating datasets  
+- Exploratory Data Analysis (EDA)  
+- Vendor-level KPI generation  
+- Visualizing insights using Matplotlib & Seaborn  
+- Identifying top & bottom performing vendors  
+- Procurement optimization insights  
+
+---
+
+## 🗄️ Data Extraction (PostgreSQL)
+All source data comes from a **PostgreSQL** database.
+
+Tools used:
+- **SQLAlchemy** (connection engine)  
+- **Pandas `read_sql_query()`** (data loading)  
+- SQL queries including CTEs, joins, and aggregations  
+
+Example connection:
+
+```python
+from sqlalchemy import create_engine
+engine = create_engine("postgresql://username:password@host:port/database")
